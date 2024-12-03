@@ -1,5 +1,5 @@
 from _tkinter import Tk, Canvas, Frame, Button, BOTH, TOP, BOTTOM, SIDE, MARGIN, HEIGHT, WIDTH
-
+#pck
 class SudokuUI(Frame):
     def __init__(self, parent):
         self.parent = parent
